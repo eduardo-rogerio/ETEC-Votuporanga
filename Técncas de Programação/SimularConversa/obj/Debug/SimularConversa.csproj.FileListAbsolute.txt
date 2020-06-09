@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\SimularConversa\bin\Debug\SimularConversa.exe.config
+C:\Users\PC\Desktop\SimularConversa\bin\Debug\SimularConversa.exe
+C:\Users\PC\Desktop\SimularConversa\bin\Debug\SimularConversa.pdb
+C:\Users\PC\Desktop\SimularConversa\obj\Debug\SimularConversa.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\SimularConversa\obj\Debug\SimularConversa.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\SimularConversa\obj\Debug\SimularConversa.exe
+C:\Users\PC\Desktop\SimularConversa\obj\Debug\SimularConversa.pdb

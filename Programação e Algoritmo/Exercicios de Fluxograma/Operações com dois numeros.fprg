@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Aluno"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-03-10 10:19:58 "/>
+        <attribute name="created" value="QWx1bm87TUlDUk8wNS1MQUIyOzIwMjAtMDMtMTA7IjA5OjM2OjU0ICI7MjQ4Mg=="/>
+        <attribute name="edited" value="QWx1bm87TUlDUk8wNS1MQUIyOzIwMjAtMDMtMTA7IjEwOjE5OjU4ICI7MzsyNTg5"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="n1, n2" type="Integer" array="False" size=""/>
+            <output expression="&quot;Digite o primeiro n&#250;mero: &quot;" newline="True"/>
+            <input variable="n1"/>
+            <output expression="&quot;Digite o segundo n&#250;mero: &quot;" newline="True"/>
+            <input variable="n2"/>
+            <output expression="&quot;A soma &#233;: &quot;&amp;n1+n2" newline="True"/>
+            <output expression="&quot;A subtra&#231;&#227;o do primeiro pela segundo &#233;: &quot;&amp;n1-n2" newline="True"/>
+            <output expression="&quot;A multiplica&#231;&#227;o do segundo pelo primeiro &#233;: &quot;&amp;n2*n1" newline="True"/>
+            <output expression="&quot;A divis&#227;o do primeiro pela segundo &#233;: &quot;&amp;n1/n2" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

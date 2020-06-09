@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\obj\Debug\netcoreapp3.1\posto_de_gasolina.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\obj\Debug\netcoreapp3.1\posto_de_gasolina.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\obj\Debug\netcoreapp3.1\posto_de_gasolina.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\obj\Debug\netcoreapp3.1\posto_de_gasolina.AssemblyInfo.cs
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\bin\Debug\netcoreapp3.1\posto_de_gasolina.exe
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\bin\Debug\netcoreapp3.1\posto_de_gasolina.deps.json
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\bin\Debug\netcoreapp3.1\posto_de_gasolina.runtimeconfig.json
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\bin\Debug\netcoreapp3.1\posto_de_gasolina.runtimeconfig.dev.json
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\bin\Debug\netcoreapp3.1\posto_de_gasolina.dll
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\bin\Debug\netcoreapp3.1\posto_de_gasolina.pdb
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\obj\Debug\netcoreapp3.1\posto_de_gasolina.dll
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\obj\Debug\netcoreapp3.1\posto_de_gasolina.pdb
+C:\Users\PC\Desktop\exercicio3\posto_de_gasolina\obj\Debug\netcoreapp3.1\posto_de_gasolina.genruntimeconfig.cache

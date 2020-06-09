@@ -1,0 +1,23 @@
+article{width:70%;
+		display:block;
+		float:left;
+		clear:left;
+		margin:5px;
+		background-color:#cccccc;
+		border: 1px solid #000;
+		padding:5px;
+		}
+
+p{text-size:10vw;
+  text-indent: 1.5em;
+  text-align: justify;
+  margin-top: 0}
+iflame{
+	width:30%;
+	float:right;
+	clear:right;
+	display:block;
+	margin:0;
+}
+hr{width:100%}
+footer{text-align:center;}

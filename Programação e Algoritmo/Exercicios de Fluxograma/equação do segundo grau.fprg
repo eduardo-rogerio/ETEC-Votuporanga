@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PC"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-03-16 12:39:47 "/>
+        <attribute name="created" value="UEM7REVTS1RPUC1LSTk5SDVMOzIwMjAtMDMtMTY7IjEyOjM4OjIwICI7MjM3OA=="/>
+        <attribute name="edited" value="UEM7REVTS1RPUC1LSTk5SDVMOzIwMjAtMDMtMTY7IjEyOjM5OjQ3ICI7MTsyNDk2"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="a, b, c, delta, x1, x2" type="Integer" array="False" size=""/>
+        </body>
+    </function>
+</flowgorithm>

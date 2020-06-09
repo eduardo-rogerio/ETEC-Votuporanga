@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="PC"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-03-04 12:16:04 "/>
+        <attribute name="created" value="UEM7REVTS1RPUC1LSTk5SDVMOzIwMjAtMDMtMDQ7IjExOjIxOjU5ICI7MjM3OA=="/>
+        <attribute name="edited" value="UEM7REVTS1RPUC1LSTk5SDVMOzIwMjAtMDMtMDQ7IjEyOjE2OjA0ICI7MTsyNDgx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="cont, contNota" type="Integer" array="False" size=""/>
+            <declare name="aluno" type="String" array="True" size="3"/>
+            <declare name="notaAluno1, notaAluno2, notaAluno3" type="Real" array="True" size="4"/>
+            <assign variable="cont" expression="0"/>
+            <do expression="cont!=3">
+                <assign variable="cont" expression="cont+1"/>
+                <output expression="&quot;Digite o nome do aluno &quot;&amp;cont" newline="True"/>
+                <input variable="aluno[cont-1]"/>
+                <for variable="contNota" start="0" end="3" direction="inc" step="1">
+                    <output expression="&quot;Digite a nota &quot;&amp;contNota+1" newline="True"/>
+                    <if expression="aluno[cont-1]==aluno[0]">
+                        <then>
+                            <input variable="notaAluno1[contNota]"/>
+                        </then>
+                        <else>
+                            <if expression="aluno[cont-1]==aluno[1]">
+                                <then>
+                                    <input variable="notaAluno2[contNota]"/>
+                                </then>
+                                <else>
+                                    <input variable="notaAluno3[contNota]"/>
+                                </else>
+                            </if>
+                        </else>
+                    </if>
+                </for>
+            </do>
+        </body>
+    </function>
+</flowgorithm>

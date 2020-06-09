@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\obj\Debug\netcoreapp3.1\lojaDeRoupas.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\obj\Debug\netcoreapp3.1\lojaDeRoupas.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\obj\Debug\netcoreapp3.1\lojaDeRoupas.AssemblyInfo.cs
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\bin\Debug\netcoreapp3.1\lojaDeRoupas.exe
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\bin\Debug\netcoreapp3.1\lojaDeRoupas.deps.json
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\bin\Debug\netcoreapp3.1\lojaDeRoupas.runtimeconfig.json
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\bin\Debug\netcoreapp3.1\lojaDeRoupas.runtimeconfig.dev.json
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\bin\Debug\netcoreapp3.1\lojaDeRoupas.dll
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\bin\Debug\netcoreapp3.1\lojaDeRoupas.pdb
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\obj\Debug\netcoreapp3.1\lojaDeRoupas.dll
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\obj\Debug\netcoreapp3.1\lojaDeRoupas.pdb
+C:\Users\PC\Desktop\exercicio3\lojaDeRoupas\obj\Debug\netcoreapp3.1\lojaDeRoupas.genruntimeconfig.cache

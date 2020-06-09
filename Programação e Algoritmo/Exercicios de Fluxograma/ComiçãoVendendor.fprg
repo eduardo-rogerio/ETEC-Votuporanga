@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="Aluno"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2020-03-09 08:37:13 "/>
+        <attribute name="created" value="QWx1bm87TUlDUk8wNS1MQUIyOzIwMjAtMDMtMDk7IjA3OjEyOjM0ICI7MjQ4MA=="/>
+        <attribute name="edited" value="QWx1bm87TUlDUk8wNS1MQUIyOzIwMjAtMDMtMDk7IjA4OjM3OjEzICI7MTsyNTkz"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="preco, comicao" type="Real" array="False" size=""/>
+            <declare name="quantVendida, codigoPeca" type="Integer" array="False" size=""/>
+            <declare name="nomeVendedor" type="String" array="False" size=""/>
+            <output expression="&quot;Digite o nome do vendendor: &quot;" newline="False"/>
+            <input variable="nomeVendedor"/>
+            <output expression="&quot;Digite o c&#243;digo da pe&#231;a:&quot;" newline="False"/>
+            <input variable="codigoPeca"/>
+            <output expression="&quot;Digite pre&#231;o da pe&#231;a:&quot;" newline="False"/>
+            <input variable="preco"/>
+            <output expression="&quot;Digite a quantidade vendida:&quot;" newline="False"/>
+            <input variable="quantVendida"/>
+            <assign variable="comicao" expression="(preco*quantVendida)*5/100"/>
+            <output expression="&quot;A comi&#231;&#227;o do vendedor &quot;&amp;nomeVendedor&amp;&quot; &#233; = R$&quot;&amp;comicao" newline="True"/>
+            <output expression="&quot;Quantidade vendida foi: &quot;&amp;quantVendida" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

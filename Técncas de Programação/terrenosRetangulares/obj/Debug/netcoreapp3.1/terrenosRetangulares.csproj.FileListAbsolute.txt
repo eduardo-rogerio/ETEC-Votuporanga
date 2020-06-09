@@ -1,0 +1,13 @@
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\bin\Debug\netcoreapp3.1\terrenosRetangulares.exe
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\bin\Debug\netcoreapp3.1\terrenosRetangulares.deps.json
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\bin\Debug\netcoreapp3.1\terrenosRetangulares.runtimeconfig.json
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\bin\Debug\netcoreapp3.1\terrenosRetangulares.runtimeconfig.dev.json
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\bin\Debug\netcoreapp3.1\terrenosRetangulares.dll
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\bin\Debug\netcoreapp3.1\terrenosRetangulares.pdb
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\obj\Debug\netcoreapp3.1\terrenosRetangulares.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\obj\Debug\netcoreapp3.1\terrenosRetangulares.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\obj\Debug\netcoreapp3.1\terrenosRetangulares.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\obj\Debug\netcoreapp3.1\terrenosRetangulares.AssemblyInfo.cs
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\obj\Debug\netcoreapp3.1\terrenosRetangulares.dll
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\obj\Debug\netcoreapp3.1\terrenosRetangulares.pdb
+C:\Users\PC\Desktop\exercicio3\terrenosRetangulares\obj\Debug\netcoreapp3.1\terrenosRetangulares.genruntimeconfig.cache
