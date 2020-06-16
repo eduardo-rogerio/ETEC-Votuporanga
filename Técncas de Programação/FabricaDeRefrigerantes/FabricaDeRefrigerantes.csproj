@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D0187E47-A833-443D-999A-9DF81494C879}</ProjectGuid>
+    <ProjectGuid>{F1C47BCB-EF5D-4E07-8759-F4C7B13D87DE}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Salario</RootNamespace>
-    <AssemblyName>Salario</AssemblyName>
+    <RootNamespace>FabricaDeRefrigerantes</RootNamespace>
+    <AssemblyName>FabricaDeRefrigerantes</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

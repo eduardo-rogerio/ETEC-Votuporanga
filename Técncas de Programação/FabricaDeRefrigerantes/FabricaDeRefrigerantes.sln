@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Salario", "Salario.csproj", "{D0187E47-A833-443D-999A-9DF81494C879}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FabricaDeRefrigerantes", "FabricaDeRefrigerantes.csproj", "{F1C47BCB-EF5D-4E07-8759-F4C7B13D87DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D0187E47-A833-443D-999A-9DF81494C879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D0187E47-A833-443D-999A-9DF81494C879}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D0187E47-A833-443D-999A-9DF81494C879}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D0187E47-A833-443D-999A-9DF81494C879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C47BCB-EF5D-4E07-8759-F4C7B13D87DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C47BCB-EF5D-4E07-8759-F4C7B13D87DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C47BCB-EF5D-4E07-8759-F4C7B13D87DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C47BCB-EF5D-4E07-8759-F4C7B13D87DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {47A81EFD-94E6-46AF-8916-1D7C6F76FB4F}
+		SolutionGuid = {C05A8777-8BA2-482B-B872-25EE1C931F66}
 	EndGlobalSection
 EndGlobal

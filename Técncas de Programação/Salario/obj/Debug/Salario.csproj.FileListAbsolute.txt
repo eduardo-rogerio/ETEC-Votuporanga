@@ -1,0 +1,2 @@
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Técncas de Programação\Salario\obj\Debug\Salario.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Técncas de Programação\Salario\obj\Debug\Salario.csproj.CoreCompileInputs.cache

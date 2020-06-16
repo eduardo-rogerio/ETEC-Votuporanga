@@ -1,0 +1,7 @@
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\FabricaDeRefrigerantes\bin\Debug\FabricaDeRefrigerantes.exe.config
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\FabricaDeRefrigerantes\bin\Debug\FabricaDeRefrigerantes.exe
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\FabricaDeRefrigerantes\bin\Debug\FabricaDeRefrigerantes.pdb
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\FabricaDeRefrigerantes\obj\Debug\FabricaDeRefrigerantes.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\FabricaDeRefrigerantes\obj\Debug\FabricaDeRefrigerantes.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\FabricaDeRefrigerantes\obj\Debug\FabricaDeRefrigerantes.exe
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\FabricaDeRefrigerantes\obj\Debug\FabricaDeRefrigerantes.pdb
