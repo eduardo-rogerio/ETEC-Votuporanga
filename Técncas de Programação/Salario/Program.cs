@@ -15,7 +15,7 @@ namespace Salario
             Console.Write("digite quantas horas extra fez esse mês: ");
             int horaEx = int.Parse(Console.ReadLine());
             decimal salarioB = (hora * 20) + (horaEx * 30);
-            decimal salarioL = (salarioB * 10) / 100;
+            decimal salarioL = (salarioB-(salarioB * 10) / 100);
             Console.WriteLine("seu salário bruto esse mês é " + salarioB(5,2));
             Console.WriteLine("seu salário liquido esse mês é " + salarioL(5,2));
         }
