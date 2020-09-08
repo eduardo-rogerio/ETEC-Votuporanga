@@ -8,3 +8,10 @@ C:\Users\PC\Desktop\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
 C:\Users\PC\Desktop\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
 C:\Users\PC\Desktop\IMC\IMC\obj\Debug\IMC.exe
 C:\Users\PC\Desktop\IMC\IMC\obj\Debug\IMC.pdb
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\IMC\IMC\obj\Debug\IMC.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\IMC\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\IMC\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\IMC\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\IMC\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\IMC\IMC\obj\Debug\IMC.exe
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\IMC\IMC\obj\Debug\IMC.pdb
