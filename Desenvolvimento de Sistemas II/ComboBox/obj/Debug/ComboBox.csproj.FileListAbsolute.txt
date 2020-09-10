@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\ComboBox\obj\Debug\ComboBox.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\ComboBox\obj\Debug\ComboBox.Form1.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\ComboBox\obj\Debug\ComboBox.Properties.Resources.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\ComboBox\obj\Debug\ComboBox.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\ComboBox\obj\Debug\ComboBox.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\ComboBox\bin\Debug\ComboBox.exe.config
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\ComboBox\bin\Debug\ComboBox.exe
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\ComboBox\bin\Debug\ComboBox.pdb
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\ComboBox\obj\Debug\ComboBox.exe
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\ComboBox\obj\Debug\ComboBox.pdb

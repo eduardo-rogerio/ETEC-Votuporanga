@@ -50,9 +50,10 @@ namespace IMC
 
         private void btn_limp_Click(object sender, EventArgs e)
         {
+          
             txt_altura.Clear();
             txt_peso.Clear();
-            lbl_resul.Text = "";
+            lbl_resul.Text = " ";
         }
 
         private void btn_sair_Click(object sender, EventArgs e)
