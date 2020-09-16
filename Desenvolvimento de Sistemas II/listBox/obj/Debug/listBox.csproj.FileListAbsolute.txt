@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\listBox\bin\Debug\listBox.exe.config
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\listBox\bin\Debug\listBox.exe
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\listBox\bin\Debug\listBox.pdb
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\listBox\obj\Debug\listBox.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\listBox\obj\Debug\listBox.Form1.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\listBox\obj\Debug\listBox.Properties.Resources.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\listBox\obj\Debug\listBox.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\listBox\obj\Debug\listBox.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\listBox\obj\Debug\listBox.exe
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\listBox\obj\Debug\listBox.pdb
