@@ -1,0 +1,16 @@
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\Menu.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\ComboBox.Form1.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\listBox.Form1.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.Properties.Resources.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\Menu.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\Menu.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\bin\Debug\SistemaCadastro.exe.config
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\bin\Debug\SistemaCadastro.exe
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\bin\Debug\SistemaCadastro.pdb
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.exe
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.pdb
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\Calculadora.Cadastro_de_Clientes.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\Calculadora.Calculadora.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\IMC.Imc.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\Calculadora.Menu.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\Triangulo.Triangulo.resources
