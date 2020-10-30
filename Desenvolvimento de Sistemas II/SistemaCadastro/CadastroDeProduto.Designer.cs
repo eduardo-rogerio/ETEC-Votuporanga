@@ -192,6 +192,7 @@
             this.BtnFechar.TabIndex = 12;
             this.BtnFechar.Text = "Fechar";
             this.BtnFechar.UseVisualStyleBackColor = true;
+            this.BtnFechar.Click += new System.EventHandler(this.BtnFechar_Click);
             // 
             // CadastroDeProduto
             // 

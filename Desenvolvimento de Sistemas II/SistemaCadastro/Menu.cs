@@ -69,10 +69,15 @@ namespace SistemaCadastro
             }
         }
 
+        private void sairToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
         private void TmrTempo_Tick(object sender, EventArgs e)
         {
-            tspData.Text = DateTime.Now.ToString("dd/MMM/yyyy");
-            tspHora.Text = DateTime.Now.ToString("HH:mm:ss");
+            tpsData.Text = DateTime.Now.ToString("dd/MMM/yyyy");
+            tpsHora.Text = DateTime.Now.ToString("HH:mm:ss");
         }
     }
 }

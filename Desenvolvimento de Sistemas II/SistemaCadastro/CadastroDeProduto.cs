@@ -16,5 +16,10 @@ namespace SistemaCadastro
         {
             InitializeComponent();
         }
+
+        private void BtnFechar_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
     }
 }

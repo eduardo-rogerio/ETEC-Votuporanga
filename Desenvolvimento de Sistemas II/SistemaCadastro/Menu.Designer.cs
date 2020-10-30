@@ -59,8 +59,8 @@
             this.toolStripButton6 = new System.Windows.Forms.ToolStripButton();
             this.loginF4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.TmrTempo = new System.Windows.Forms.Timer(this.components);
-            this.tspData = new System.Windows.Forms.ToolStripStatusLabel();
-            this.tspHora = new System.Windows.Forms.ToolStripStatusLabel();
+            this.tpsData = new System.Windows.Forms.ToolStripStatusLabel();
+            this.tpsHora = new System.Windows.Forms.ToolStripStatusLabel();
             this.menuStrip1.SuspendLayout();
             this.toolStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
@@ -197,6 +197,7 @@
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
             this.sairToolStripMenuItem.Size = new System.Drawing.Size(45, 23);
             this.sairToolStripMenuItem.Text = "Sair";
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
             // toolStrip1
             // 
@@ -225,8 +226,8 @@
             this.statusStrip1.ImageScalingSize = new System.Drawing.Size(18, 18);
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripStatusLabel1,
-            this.tspData,
-            this.tspHora});
+            this.tpsHora,
+            this.tpsData});
             this.statusStrip1.Location = new System.Drawing.Point(0, 426);
             this.statusStrip1.Name = "statusStrip1";
             this.statusStrip1.Size = new System.Drawing.Size(800, 24);
@@ -294,6 +295,7 @@
             this.toolStripButton5.Name = "toolStripButton5";
             this.toolStripButton5.Size = new System.Drawing.Size(56, 56);
             this.toolStripButton5.Text = "toolStripButton5";
+            this.toolStripButton5.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
             // toolStripButton6
             // 
@@ -314,19 +316,20 @@
             // 
             // TmrTempo
             // 
+            this.TmrTempo.Enabled = true;
             this.TmrTempo.Tick += new System.EventHandler(this.TmrTempo_Tick);
             // 
-            // tspData
+            // tpsData
             // 
-            this.tspData.Name = "tspData";
-            this.tspData.Size = new System.Drawing.Size(139, 19);
-            this.tspData.Text = "toolStripStatusLabel2";
+            this.tpsData.Name = "tpsData";
+            this.tpsData.Size = new System.Drawing.Size(139, 19);
+            this.tpsData.Text = "toolStripStatusLabel2";
             // 
-            // tspHora
+            // tpsHora
             // 
-            this.tspHora.Name = "tspHora";
-            this.tspHora.Size = new System.Drawing.Size(139, 19);
-            this.tspHora.Text = "toolStripStatusLabel2";
+            this.tpsHora.Name = "tpsHora";
+            this.tpsHora.Size = new System.Drawing.Size(139, 19);
+            this.tpsHora.Text = "toolStripStatusLabel2";
             // 
             // Menu
             // 
@@ -385,8 +388,8 @@
         private System.Windows.Forms.ToolStripStatusLabel toolStripStatusLabel1;
         private System.Diagnostics.Process process1;
         private System.Windows.Forms.ToolStripMenuItem loginF4ToolStripMenuItem;
-        private System.Windows.Forms.ToolStripStatusLabel tspData;
-        private System.Windows.Forms.ToolStripStatusLabel tspHora;
+        private System.Windows.Forms.ToolStripStatusLabel tpsData;
+        private System.Windows.Forms.ToolStripStatusLabel tpsHora;
         private System.Windows.Forms.Timer TmrTempo;
     }
 }
