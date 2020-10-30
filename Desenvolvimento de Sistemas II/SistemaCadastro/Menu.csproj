@@ -52,6 +52,12 @@
     <Compile Include="CadastroDeCliente.Designer.cs">
       <DependentUpon>CadastroDeCliente.cs</DependentUpon>
     </Compile>
+    <Compile Include="CadastroDeProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CadastroDeProduto.Designer.cs">
+      <DependentUpon>CadastroDeProduto.cs</DependentUpon>
+    </Compile>
     <Compile Include="Calculadora.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -92,6 +98,9 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="CadastroDeCliente.resx">
       <DependentUpon>CadastroDeCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CadastroDeProduto.resx">
+      <DependentUpon>CadastroDeProduto.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Calculadora.resx">
       <DependentUpon>Calculadora.cs</DependentUpon>

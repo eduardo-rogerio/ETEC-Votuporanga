@@ -1,12 +1,4 @@
-﻿using IMC;
-using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System;
 using System.Windows.Forms;
 
 namespace SistemaCadastro
@@ -50,6 +42,37 @@ namespace SistemaCadastro
         {
             Triangulo objTriangulo = new Triangulo();
             objTriangulo.ShowDialog();
+        }
+
+        private void produtoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            CadastroDeProduto objProduto = new CadastroDeProduto();
+            objProduto.ShowDialog();
+        }
+
+        private void toolStripButton1_Click(object sender, EventArgs e)
+        {
+            process1.StartInfo.FileName = "calc.exe";
+            process1.Start();
+        }
+
+        private void Menu_KeyDown(object sender, KeyEventArgs e)
+        {
+            switch (e.KeyCode)
+            {
+                case Keys.F2:
+                    clienteToolStripMenuItem_Click(sender,e);
+                    break;
+                case Keys.F3:
+                    produtoToolStripMenuItem_Click(sender, e);
+                    break;
+            }
+        }
+
+        private void TmrTempo_Tick(object sender, EventArgs e)
+        {
+            tspData.Text = DateTime.Now.ToString("dd/MMM/yyyy");
+            tspHora.Text = DateTime.Now.ToString("HH:mm:ss");
         }
     }
 }
