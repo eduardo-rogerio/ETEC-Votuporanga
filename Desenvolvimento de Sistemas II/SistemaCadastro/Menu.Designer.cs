@@ -45,22 +45,22 @@
             this.iMCToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.calculadoraToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.triânguloToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.loginF4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sairToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStrip1 = new System.Windows.Forms.ToolStrip();
-            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
-            this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
-            this.process1 = new System.Diagnostics.Process();
             this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton2 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton3 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton4 = new System.Windows.Forms.ToolStripButton();
             this.toolStripButton5 = new System.Windows.Forms.ToolStripButton();
+            this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.toolStripButton6 = new System.Windows.Forms.ToolStripButton();
-            this.loginF4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.TmrTempo = new System.Windows.Forms.Timer(this.components);
-            this.tpsData = new System.Windows.Forms.ToolStripStatusLabel();
+            this.statusStrip1 = new System.Windows.Forms.StatusStrip();
+            this.toolStripStatusLabel1 = new System.Windows.Forms.ToolStripStatusLabel();
             this.tpsHora = new System.Windows.Forms.ToolStripStatusLabel();
+            this.tpsData = new System.Windows.Forms.ToolStripStatusLabel();
+            this.process1 = new System.Diagnostics.Process();
+            this.TmrTempo = new System.Windows.Forms.Timer(this.components);
             this.menuStrip1.SuspendLayout();
             this.toolStrip1.SuspendLayout();
             this.statusStrip1.SuspendLayout();
@@ -96,7 +96,7 @@
             this.cadastroToolStripMenuItem1,
             this.funcionarioToolStripMenuItem});
             this.clienteToolStripMenuItem.Name = "clienteToolStripMenuItem";
-            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
+            this.clienteToolStripMenuItem.Size = new System.Drawing.Size(183, 24);
             this.clienteToolStripMenuItem.Text = "Cliente          F2";
             this.clienteToolStripMenuItem.Click += new System.EventHandler(this.clienteToolStripMenuItem_Click);
             // 
@@ -115,7 +115,7 @@
             // produtoToolStripMenuItem
             // 
             this.produtoToolStripMenuItem.Name = "produtoToolStripMenuItem";
-            this.produtoToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
+            this.produtoToolStripMenuItem.Size = new System.Drawing.Size(183, 24);
             this.produtoToolStripMenuItem.Text = "Produto        F3";
             this.produtoToolStripMenuItem.Click += new System.EventHandler(this.produtoToolStripMenuItem_Click);
             // 
@@ -174,23 +174,29 @@
             // iMCToolStripMenuItem
             // 
             this.iMCToolStripMenuItem.Name = "iMCToolStripMenuItem";
-            this.iMCToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
+            this.iMCToolStripMenuItem.Size = new System.Drawing.Size(179, 24);
             this.iMCToolStripMenuItem.Text = "IMC";
             this.iMCToolStripMenuItem.Click += new System.EventHandler(this.iMCToolStripMenuItem_Click);
             // 
             // calculadoraToolStripMenuItem1
             // 
             this.calculadoraToolStripMenuItem1.Name = "calculadoraToolStripMenuItem1";
-            this.calculadoraToolStripMenuItem1.Size = new System.Drawing.Size(206, 24);
+            this.calculadoraToolStripMenuItem1.Size = new System.Drawing.Size(179, 24);
             this.calculadoraToolStripMenuItem1.Text = "Calculadora";
             this.calculadoraToolStripMenuItem1.Click += new System.EventHandler(this.calculadoraToolStripMenuItem1_Click);
             // 
             // triânguloToolStripMenuItem
             // 
             this.triânguloToolStripMenuItem.Name = "triânguloToolStripMenuItem";
-            this.triânguloToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
+            this.triânguloToolStripMenuItem.Size = new System.Drawing.Size(179, 24);
             this.triânguloToolStripMenuItem.Text = "Triângulo";
             this.triânguloToolStripMenuItem.Click += new System.EventHandler(this.triânguloToolStripMenuItem_Click);
+            // 
+            // loginF4ToolStripMenuItem
+            // 
+            this.loginF4ToolStripMenuItem.Name = "loginF4ToolStripMenuItem";
+            this.loginF4ToolStripMenuItem.Size = new System.Drawing.Size(179, 24);
+            this.loginF4ToolStripMenuItem.Text = "Login           F4";
             // 
             // sairToolStripMenuItem
             // 
@@ -215,40 +221,6 @@
             this.toolStrip1.Size = new System.Drawing.Size(800, 59);
             this.toolStrip1.TabIndex = 1;
             this.toolStrip1.Text = "toolStrip1";
-            // 
-            // toolStripSeparator1
-            // 
-            this.toolStripSeparator1.Name = "toolStripSeparator1";
-            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 59);
-            // 
-            // statusStrip1
-            // 
-            this.statusStrip1.ImageScalingSize = new System.Drawing.Size(18, 18);
-            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.toolStripStatusLabel1,
-            this.tpsHora,
-            this.tpsData});
-            this.statusStrip1.Location = new System.Drawing.Point(0, 426);
-            this.statusStrip1.Name = "statusStrip1";
-            this.statusStrip1.Size = new System.Drawing.Size(800, 24);
-            this.statusStrip1.TabIndex = 2;
-            this.statusStrip1.Text = "statusStrip1";
-            // 
-            // toolStripStatusLabel1
-            // 
-            this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
-            this.toolStripStatusLabel1.Size = new System.Drawing.Size(240, 19);
-            this.toolStripStatusLabel1.Text = "Bem-Vindo ao Sistema - Tela Principal";
-            // 
-            // process1
-            // 
-            this.process1.StartInfo.Domain = "";
-            this.process1.StartInfo.LoadUserProfile = false;
-            this.process1.StartInfo.Password = null;
-            this.process1.StartInfo.StandardErrorEncoding = null;
-            this.process1.StartInfo.StandardOutputEncoding = null;
-            this.process1.StartInfo.UserName = "";
-            this.process1.SynchronizingObject = this;
             // 
             // toolStripButton1
             // 
@@ -297,6 +269,11 @@
             this.toolStripButton5.Text = "toolStripButton5";
             this.toolStripButton5.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
+            // toolStripSeparator1
+            // 
+            this.toolStripSeparator1.Name = "toolStripSeparator1";
+            this.toolStripSeparator1.Size = new System.Drawing.Size(6, 59);
+            // 
             // toolStripButton6
             // 
             this.toolStripButton6.Alignment = System.Windows.Forms.ToolStripItemAlignment.Right;
@@ -308,16 +285,30 @@
             this.toolStripButton6.Size = new System.Drawing.Size(56, 56);
             this.toolStripButton6.Text = "toolStripButton6";
             // 
-            // loginF4ToolStripMenuItem
+            // statusStrip1
             // 
-            this.loginF4ToolStripMenuItem.Name = "loginF4ToolStripMenuItem";
-            this.loginF4ToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
-            this.loginF4ToolStripMenuItem.Text = "Login           F4";
+            this.statusStrip1.ImageScalingSize = new System.Drawing.Size(18, 18);
+            this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.toolStripStatusLabel1,
+            this.tpsHora,
+            this.tpsData});
+            this.statusStrip1.Location = new System.Drawing.Point(0, 426);
+            this.statusStrip1.Name = "statusStrip1";
+            this.statusStrip1.Size = new System.Drawing.Size(800, 24);
+            this.statusStrip1.TabIndex = 2;
+            this.statusStrip1.Text = "statusStrip1";
             // 
-            // TmrTempo
+            // toolStripStatusLabel1
             // 
-            this.TmrTempo.Enabled = true;
-            this.TmrTempo.Tick += new System.EventHandler(this.TmrTempo_Tick);
+            this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
+            this.toolStripStatusLabel1.Size = new System.Drawing.Size(240, 19);
+            this.toolStripStatusLabel1.Text = "Bem-Vindo ao Sistema - Tela Principal";
+            // 
+            // tpsHora
+            // 
+            this.tpsHora.Name = "tpsHora";
+            this.tpsHora.Size = new System.Drawing.Size(139, 19);
+            this.tpsHora.Text = "toolStripStatusLabel2";
             // 
             // tpsData
             // 
@@ -325,11 +316,20 @@
             this.tpsData.Size = new System.Drawing.Size(139, 19);
             this.tpsData.Text = "toolStripStatusLabel2";
             // 
-            // tpsHora
+            // process1
             // 
-            this.tpsHora.Name = "tpsHora";
-            this.tpsHora.Size = new System.Drawing.Size(139, 19);
-            this.tpsHora.Text = "toolStripStatusLabel2";
+            this.process1.StartInfo.Domain = "";
+            this.process1.StartInfo.LoadUserProfile = false;
+            this.process1.StartInfo.Password = null;
+            this.process1.StartInfo.StandardErrorEncoding = null;
+            this.process1.StartInfo.StandardOutputEncoding = null;
+            this.process1.StartInfo.UserName = "";
+            this.process1.SynchronizingObject = this;
+            // 
+            // TmrTempo
+            // 
+            this.TmrTempo.Enabled = true;
+            this.TmrTempo.Tick += new System.EventHandler(this.TmrTempo_Tick);
             // 
             // Menu
             // 

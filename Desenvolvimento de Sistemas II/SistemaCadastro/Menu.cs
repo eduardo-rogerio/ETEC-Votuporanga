@@ -10,16 +10,6 @@ namespace SistemaCadastro
             InitializeComponent();
         }
 
-        private void process1_Exited(object sender, EventArgs e)
-        {
-
-        }
-
-        private void toolStripStatusLabel1_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void clienteToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Cadastro_de_Clientes objcadastro = new Cadastro_de_Clientes();
@@ -71,7 +61,10 @@ namespace SistemaCadastro
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            Application.Exit();
+            if (MessageBox.Show("Deseja mesmo sair?", "Mensagem do sistema", MessageBoxButtons.OKCancel) == DialogResult.OK)
+            {
+                Application.Exit();
+            }
         }
 
         private void TmrTempo_Tick(object sender, EventArgs e)

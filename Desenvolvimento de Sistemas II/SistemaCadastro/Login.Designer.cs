@@ -57,7 +57,6 @@
             this.label2.Size = new System.Drawing.Size(56, 20);
             this.label2.TabIndex = 2;
             this.label2.Text = "Senha";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // txtUsuario
             // 
@@ -72,6 +71,7 @@
             this.txtSenha.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.818182F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtSenha.Location = new System.Drawing.Point(237, 113);
             this.txtSenha.Name = "txtSenha";
+            this.txtSenha.PasswordChar = '*';
             this.txtSenha.Size = new System.Drawing.Size(100, 24);
             this.txtSenha.TabIndex = 4;
             this.txtSenha.TextChanged += new System.EventHandler(this.textBox2_TextChanged);
@@ -114,7 +114,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(357, 224);
+            this.ClientSize = new System.Drawing.Size(353, 220);
             this.ControlBox = false;
             this.Controls.Add(this.BtnSair);
             this.Controls.Add(this.BtnLogar);
