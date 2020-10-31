@@ -16,5 +16,13 @@ namespace SistemaCadastro
         {
             InitializeComponent();
         }
+
+        private void BtnSair_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Deseja mesmo sair?", "Mensagem do sistema", MessageBoxButtons.OKCancel) == DialogResult.OK)
+            {
+                Application.Exit();
+            }
+        }
     }
 }

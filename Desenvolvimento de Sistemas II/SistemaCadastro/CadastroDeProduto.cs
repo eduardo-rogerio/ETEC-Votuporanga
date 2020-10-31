@@ -21,5 +21,13 @@ namespace SistemaCadastro
         {
             Application.Exit();
         }
+
+        private void BtnLimpar_Click(object sender, EventArgs e)
+        {
+            TxtCodigo.Clear();
+            TxtDescricao.Clear();
+            TxtPreco.Clear();
+            TxtQuantidade.Clear();
+        }
     }
 }

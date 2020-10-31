@@ -229,7 +229,7 @@
             this.toolStripButton1.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton1.Name = "toolStripButton1";
             this.toolStripButton1.Size = new System.Drawing.Size(56, 56);
-            this.toolStripButton1.Text = "toolStripButton1";
+            this.toolStripButton1.Text = "Calculadora";
             this.toolStripButton1.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // toolStripButton2
@@ -239,7 +239,7 @@
             this.toolStripButton2.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(56, 56);
-            this.toolStripButton2.Text = "toolStripButton2";
+            this.toolStripButton2.Text = "Word";
             // 
             // toolStripButton3
             // 
@@ -248,7 +248,7 @@
             this.toolStripButton3.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton3.Name = "toolStripButton3";
             this.toolStripButton3.Size = new System.Drawing.Size(56, 56);
-            this.toolStripButton3.Text = "toolStripButton3";
+            this.toolStripButton3.Text = "Excel";
             // 
             // toolStripButton4
             // 
@@ -257,7 +257,7 @@
             this.toolStripButton4.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton4.Name = "toolStripButton4";
             this.toolStripButton4.Size = new System.Drawing.Size(56, 56);
-            this.toolStripButton4.Text = "toolStripButton4";
+            this.toolStripButton4.Text = "PowerPoint";
             // 
             // toolStripButton5
             // 
@@ -266,7 +266,7 @@
             this.toolStripButton5.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton5.Name = "toolStripButton5";
             this.toolStripButton5.Size = new System.Drawing.Size(56, 56);
-            this.toolStripButton5.Text = "toolStripButton5";
+            this.toolStripButton5.Text = "Login";
             this.toolStripButton5.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
             // toolStripSeparator1
@@ -283,7 +283,7 @@
             this.toolStripButton6.ImageTransparentColor = System.Drawing.Color.Magenta;
             this.toolStripButton6.Name = "toolStripButton6";
             this.toolStripButton6.Size = new System.Drawing.Size(56, 56);
-            this.toolStripButton6.Text = "toolStripButton6";
+            this.toolStripButton6.Text = "Sair";
             // 
             // statusStrip1
             // 

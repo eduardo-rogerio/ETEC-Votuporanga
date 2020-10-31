@@ -510,6 +510,7 @@
             this.BtnSair.TabIndex = 13;
             this.BtnSair.Text = "Sair";
             this.BtnSair.UseVisualStyleBackColor = true;
+            this.BtnSair.Click += new System.EventHandler(this.BtnSair_Click);
             // 
             // Cadastro_de_Clientes
             // 

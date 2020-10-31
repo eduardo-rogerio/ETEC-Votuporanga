@@ -34,10 +34,10 @@
             this.label4 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.TxtCodigo = new System.Windows.Forms.TextBox();
-            this.TxtDescricao = new System.Windows.Forms.TextBox();
-            this.TxtQuantidade = new System.Windows.Forms.TextBox();
             this.TxtPreco = new System.Windows.Forms.TextBox();
+            this.TxtQuantidade = new System.Windows.Forms.TextBox();
+            this.TxtDescricao = new System.Windows.Forms.TextBox();
+            this.TxtCodigo = new System.Windows.Forms.TextBox();
             this.BtnIncluir = new System.Windows.Forms.Button();
             this.BtnAlterar = new System.Windows.Forms.Button();
             this.BtnConsultar = new System.Windows.Forms.Button();
@@ -54,7 +54,7 @@
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.29091F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.Location = new System.Drawing.Point(236, 9);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(298, 35);
+            this.label1.Size = new System.Drawing.Size(314, 37);
             this.label1.TabIndex = 0;
             this.label1.Text = "Cadastro de Produto";
             // 
@@ -111,19 +111,12 @@
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Dados do Produto";
             // 
-            // TxtCodigo
+            // TxtPreco
             // 
-            this.TxtCodigo.Location = new System.Drawing.Point(52, 26);
-            this.TxtCodigo.Name = "TxtCodigo";
-            this.TxtCodigo.Size = new System.Drawing.Size(144, 20);
-            this.TxtCodigo.TabIndex = 7;
-            // 
-            // TxtDescricao
-            // 
-            this.TxtDescricao.Location = new System.Drawing.Point(67, 49);
-            this.TxtDescricao.Name = "TxtDescricao";
-            this.TxtDescricao.Size = new System.Drawing.Size(481, 20);
-            this.TxtDescricao.TabIndex = 8;
+            this.TxtPreco.Location = new System.Drawing.Point(288, 76);
+            this.TxtPreco.Name = "TxtPreco";
+            this.TxtPreco.Size = new System.Drawing.Size(100, 20);
+            this.TxtPreco.TabIndex = 10;
             // 
             // TxtQuantidade
             // 
@@ -132,12 +125,19 @@
             this.TxtQuantidade.Size = new System.Drawing.Size(141, 20);
             this.TxtQuantidade.TabIndex = 9;
             // 
-            // TxtPreco
+            // TxtDescricao
             // 
-            this.TxtPreco.Location = new System.Drawing.Point(288, 76);
-            this.TxtPreco.Name = "TxtPreco";
-            this.TxtPreco.Size = new System.Drawing.Size(100, 20);
-            this.TxtPreco.TabIndex = 10;
+            this.TxtDescricao.Location = new System.Drawing.Point(67, 49);
+            this.TxtDescricao.Name = "TxtDescricao";
+            this.TxtDescricao.Size = new System.Drawing.Size(481, 20);
+            this.TxtDescricao.TabIndex = 8;
+            // 
+            // TxtCodigo
+            // 
+            this.TxtCodigo.Location = new System.Drawing.Point(52, 26);
+            this.TxtCodigo.Name = "TxtCodigo";
+            this.TxtCodigo.Size = new System.Drawing.Size(144, 20);
+            this.TxtCodigo.TabIndex = 7;
             // 
             // BtnIncluir
             // 
@@ -183,6 +183,7 @@
             this.BtnLimpar.TabIndex = 11;
             this.BtnLimpar.Text = "Limpar";
             this.BtnLimpar.UseVisualStyleBackColor = true;
+            this.BtnLimpar.Click += new System.EventHandler(this.BtnLimpar_Click);
             // 
             // BtnFechar
             // 
