@@ -139,26 +139,30 @@
             // wordToolStripMenuItem
             // 
             this.wordToolStripMenuItem.Name = "wordToolStripMenuItem";
-            this.wordToolStripMenuItem.Size = new System.Drawing.Size(157, 24);
+            this.wordToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.wordToolStripMenuItem.Text = "Word";
+            this.wordToolStripMenuItem.Click += new System.EventHandler(this.toolStripButton2_Click);
             // 
             // excelToolStripMenuItem
             // 
             this.excelToolStripMenuItem.Name = "excelToolStripMenuItem";
-            this.excelToolStripMenuItem.Size = new System.Drawing.Size(157, 24);
+            this.excelToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.excelToolStripMenuItem.Text = "Excel";
+            this.excelToolStripMenuItem.Click += new System.EventHandler(this.toolStripButton3_Click);
             // 
             // pToolStripMenuItem
             // 
             this.pToolStripMenuItem.Name = "pToolStripMenuItem";
-            this.pToolStripMenuItem.Size = new System.Drawing.Size(157, 24);
+            this.pToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.pToolStripMenuItem.Text = "PowerPoint";
+            this.pToolStripMenuItem.Click += new System.EventHandler(this.toolStripButton4_Click);
             // 
             // calculadoraToolStripMenuItem
             // 
             this.calculadoraToolStripMenuItem.Name = "calculadoraToolStripMenuItem";
-            this.calculadoraToolStripMenuItem.Size = new System.Drawing.Size(157, 24);
+            this.calculadoraToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.calculadoraToolStripMenuItem.Text = "Calculadora";
+            this.calculadoraToolStripMenuItem.Click += new System.EventHandler(this.toolStripButton1_Click);
             // 
             // projetoToolStripMenuItem
             // 
@@ -195,15 +199,16 @@
             // loginF4ToolStripMenuItem
             // 
             this.loginF4ToolStripMenuItem.Name = "loginF4ToolStripMenuItem";
-            this.loginF4ToolStripMenuItem.Size = new System.Drawing.Size(179, 24);
+            this.loginF4ToolStripMenuItem.Size = new System.Drawing.Size(206, 24);
             this.loginF4ToolStripMenuItem.Text = "Login           F4";
+            this.loginF4ToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
             // 
             // sairToolStripMenuItem
             // 
             this.sairToolStripMenuItem.Name = "sairToolStripMenuItem";
             this.sairToolStripMenuItem.Size = new System.Drawing.Size(45, 23);
             this.sairToolStripMenuItem.Text = "Sair";
-            this.sairToolStripMenuItem.Click += new System.EventHandler(this.sairToolStripMenuItem_Click);
+            this.sairToolStripMenuItem.Click += new System.EventHandler(this.toolStripButton6_Click);
             // 
             // toolStrip1
             // 
@@ -240,6 +245,7 @@
             this.toolStripButton2.Name = "toolStripButton2";
             this.toolStripButton2.Size = new System.Drawing.Size(56, 56);
             this.toolStripButton2.Text = "Word";
+            this.toolStripButton2.Click += new System.EventHandler(this.toolStripButton2_Click);
             // 
             // toolStripButton3
             // 
@@ -249,6 +255,7 @@
             this.toolStripButton3.Name = "toolStripButton3";
             this.toolStripButton3.Size = new System.Drawing.Size(56, 56);
             this.toolStripButton3.Text = "Excel";
+            this.toolStripButton3.Click += new System.EventHandler(this.toolStripButton3_Click);
             // 
             // toolStripButton4
             // 
@@ -258,6 +265,7 @@
             this.toolStripButton4.Name = "toolStripButton4";
             this.toolStripButton4.Size = new System.Drawing.Size(56, 56);
             this.toolStripButton4.Text = "PowerPoint";
+            this.toolStripButton4.Click += new System.EventHandler(this.toolStripButton4_Click);
             // 
             // toolStripButton5
             // 
@@ -284,6 +292,7 @@
             this.toolStripButton6.Name = "toolStripButton6";
             this.toolStripButton6.Size = new System.Drawing.Size(56, 56);
             this.toolStripButton6.Text = "Sair";
+            this.toolStripButton6.Click += new System.EventHandler(this.toolStripButton6_Click);
             // 
             // statusStrip1
             // 

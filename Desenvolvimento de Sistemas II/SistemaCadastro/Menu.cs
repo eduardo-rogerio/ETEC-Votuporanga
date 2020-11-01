@@ -61,16 +61,41 @@ namespace SistemaCadastro
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            if (MessageBox.Show("Deseja mesmo sair?", "Mensagem do sistema", MessageBoxButtons.OKCancel) == DialogResult.OK)
-            {
-                Application.Exit();
-            }
+            Login objLogin = new Login();
+            objLogin.ShowDialog();
         }
 
         private void TmrTempo_Tick(object sender, EventArgs e)
         {
             tpsData.Text = DateTime.Now.ToString("dd/MMM/yyyy");
             tpsHora.Text = DateTime.Now.ToString("HH:mm:ss");
+        }
+
+        private void toolStripButton2_Click(object sender, EventArgs e)
+        {
+            process1.StartInfo.FileName = @"C:\Program Files\Microsoft Office\WinWord.exe";
+            process1.Start();
+        }
+
+        private void toolStripButton3_Click(object sender, EventArgs e)
+        {
+            process1.StartInfo.FileName = @"C:\Program Files\Microsoft Office\Excel.exe";
+            process1.Start();
+
+        }
+
+        private void toolStripButton4_Click(object sender, EventArgs e)
+        {
+            process1.StartInfo.FileName = @"C:\Program Files\Microsoft Office\PowerPoint.exe";
+            process1.Start();
+        }
+
+        private void toolStripButton6_Click(object sender, EventArgs e)
+        {
+            if (MessageBox.Show("Deseja mesmo sair?", "Mensagem do sistema", MessageBoxButtons.OKCancel) == DialogResult.OK)
+            {
+                Application.Exit();
+            }
         }
     }
 }
