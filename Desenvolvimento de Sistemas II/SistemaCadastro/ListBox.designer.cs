@@ -1,6 +1,6 @@
 ﻿namespace SistemaCadastro
 {
-    partial class Form1
+    partial class comboBox
     {
         /// <summary>
         /// Variável de designer necessária.

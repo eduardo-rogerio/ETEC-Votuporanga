@@ -10,25 +10,25 @@ using System.Windows.Forms;
 
 namespace SistemaCadastro
 {
-    public partial class Form1 : Form
+    public partial class comboBox : Form
     {
-        public Form1()
+        public comboBox()
         {
             InitializeComponent();
         }
 
         private void BtnAdicionar_Click(object sender, EventArgs e)
         {
-            ComboBox.Items.Add(TxtItens.Text);
+            System.Windows.Forms.ComboBox.Items.Add((object)this.TxtItens.Text);
             TxtItens.Clear();
             TxtItens.Focus();
         }
 
         private void BtnExcluir_Click(object sender, EventArgs e)
         {
-            if (ComboBox.SelectedIndex != -1)
+            if (System.Windows.Forms.ComboBox.SelectedIndex != -1)
             {
-                ComboBox.Items.RemoveAt(ComboBox.SelectedIndex);
+                System.Windows.Forms.ComboBox.Items.RemoveAt(System.Windows.Forms.ComboBox.SelectedIndex);
             }
             else
             {
@@ -38,7 +38,7 @@ namespace SistemaCadastro
 
         private void BtnApagarLista_Click(object sender, EventArgs e)
         {
-            ComboBox.Items.Clear();
+            System.Windows.Forms.ComboBox.Items.Clear();
             TxtPosicao.Text = " ";
             TxtSelecao.Text = " ";
             TxtTotal.Text = " ";
@@ -48,7 +48,7 @@ namespace SistemaCadastro
         private void BtnLimpar_Click(object sender, EventArgs e)
         {
             TxtItens.Clear();
-            ComboBox.SelectedIndex = -1;
+            System.Windows.Forms.ComboBox.SelectedIndex = -1;
             TxtPosicao.Text = " ";
             TxtSelecao.Text = " ";
             TxtTotal.Text = " ";
@@ -57,11 +57,11 @@ namespace SistemaCadastro
 
         private void ComboBox_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (ComboBox.SelectedIndex != -1)
+            if (System.Windows.Forms.ComboBox.SelectedIndex != -1)
             {
-                TxtPosicao.Text = ComboBox.SelectedIndex.ToString();
-                TxtSelecao.Text = ComboBox.SelectedItem.ToString();
-                TxtTotal.Text = ComboBox.Items.Count.ToString();
+                TxtPosicao.Text = System.Windows.Forms.ComboBox.SelectedIndex.ToString();
+                TxtSelecao.Text = System.Windows.Forms.ComboBox.SelectedItem.ToString();
+                TxtTotal.Text = System.Windows.Forms.ComboBox.Items.Count.ToString();
             }
         }
 

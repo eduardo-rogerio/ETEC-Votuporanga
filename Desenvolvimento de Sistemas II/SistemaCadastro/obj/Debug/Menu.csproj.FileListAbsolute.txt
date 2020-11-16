@@ -14,3 +14,12 @@ C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas
 C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\IMC.Imc.resources
 C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\Calculadora.Menu.resources
 C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\Triangulo.Triangulo.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.Cadastro_de_Clientes.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.CadastroDeProduto.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.Calculadora.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.comboBox.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.Login.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.Triangulo.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.ListBox.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.Imc.resources
+C:\Users\PC\Desktop\ETEC exercicios\ETEC-Votuporanga\Desenvolvimento de Sistemas II\SistemaCadastro\obj\Debug\SistemaCadastro.Menu.resources
